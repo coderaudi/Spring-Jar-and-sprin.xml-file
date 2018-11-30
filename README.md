@@ -7,14 +7,6 @@ create the class
 create the xml file to provide the values
 create the test class
 
-
-the jar files are spring.xml file is provided 
-
-
-spring.xml --> 
-
-
-
 <beans xmlns="http://www.springframework.org/schema/beans"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
@@ -23,7 +15,11 @@ spring.xml -->
 	  
 	  // your  javaBeans mapping code 
 	  
-</beans>	   
+</beans>
+
+
+
+	   
            
     
       
